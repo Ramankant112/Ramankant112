@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Raman Kant(url)
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **ramankant341@gmail@live.com**. 😊😊
+Email Me 👉 ✉️ **ramankant341@gmail.com**. 😊😊
 
 <!--🔭 **I’m currently working on:** Enter your project info here 
 - 🌱 **I’m currently learning:** Enter your tech here
