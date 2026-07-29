@@ -1,18 +1,28 @@
-# 💫 Hi 👋, I'm Raman Kant(url)
-<!--**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**-->
-
+# 💫 Hi 👋, I'm Raman Kant.
+### 📊 Data Analyst | Python | SQL | Power BI | Excel
 Email Me 👉 ✉️ **ramankant341@gmail.com**. 😊😊
 
-<!--🔭 **I’m currently working on:** Enter your project info here 
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me -->
+- 🔭 **I'm currently working on:** Data Analytics Projects using Python, SQL, Power BI & Excel
+
+- 🌱 **I'm currently learning:** Advanced Power BI, SQL Optimization and Machine Learning Basics
+
+- 👯 **I'm looking to collaborate on:** Data Analytics and Business Intelligence Projects
+
+- 🤝 **I'm looking for help with:** Real-world Data Analysis Projects and Open Source Contributions
+
+- 💬 **Ask me about:** Python, SQL, Power BI, Excel and Data Analytics
+
+- 📫 **How to reach me:** ramankant341@gmail.com
+
+- 😄 **Pronouns:** He/Him
+
+- ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights through dashboards and visualizations.
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-kant-09754041a/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramankant341@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-kant/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramankant341@gmail.com)
 
 <!-- Snake Game Repo View -->
 
